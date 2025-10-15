@@ -11,7 +11,10 @@ Make sure you have installed:
 - [Flutter SDK](https://flutter.dev/docs/get-started/install) (includes Dart SDK)
 - Android Studio or VS Code (or any IDE for Flutter)
 - Xcode (for iOS, optional)
-- Git
+- Git clone the project using any IDE
 - Build this app using Flutter and NewsAPI and Implemented Provider Statemanagement
-<img width="960" height="1600" alt="Screenshot_1760553869" src="https://github.com/user-attachments/assets/415f44cb-d594-45d6-b486-c02bf5c896f6" />
-<img width="960" height="1600" alt="Screenshot_1760553882" src="https://github.com/user-attachments/assets/6d548b49-34d2-449c-b5b6-e15f381560a9" />
+- Implemented Firebase for user Authentication
+
+
+<img width="960" height="1080" alt="Screenshot_1760553869" src="https://github.com/user-attachments/assets/415f44cb-d594-45d6-b486-c02bf5c896f6" />
+<img width="960" height="1080" alt="Screenshot_1760553882" src="https://github.com/user-attachments/assets/6d548b49-34d2-449c-b5b6-e15f381560a9" />
