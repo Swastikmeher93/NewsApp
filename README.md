@@ -16,5 +16,5 @@ Make sure you have installed:
 - Implemented Firebase for user Authentication
 
 
-<img width="960" height="1080" alt="Screenshot_1760553869" src="https://github.com/user-attachments/assets/415f44cb-d594-45d6-b486-c02bf5c896f6" />
-<img width="960" height="1080" alt="Screenshot_1760553882" src="https://github.com/user-attachments/assets/6d548b49-34d2-449c-b5b6-e15f381560a9" />
+<img width="300" height="300" alt="Screenshot_1760553869" src="https://github.com/user-attachments/assets/415f44cb-d594-45d6-b486-c02bf5c896f6" />
+<img width="300" height="300" alt="Screenshot_1760553882" src="https://github.com/user-attachments/assets/6d548b49-34d2-449c-b5b6-e15f381560a9" />
